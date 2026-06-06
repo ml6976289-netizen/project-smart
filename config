@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:ml6976289-netizen/project-smart.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
