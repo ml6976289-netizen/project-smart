@@ -216,6 +216,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
         isAuthenticated,
         login,
         logout,
+        changePassword,
         isDarkMode,
         toggleDarkMode,
         sessions,
